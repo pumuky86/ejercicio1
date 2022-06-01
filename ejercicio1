@@ -1,0 +1,28 @@
+//PARTE1
+
+Función sumar int (int a, int b, int c) {
+	return a+b+c;
+}
+
+
+public class Main {
+	int resultado;
+	resultado = 5+8+10
+	System.out.println(resultado)
+}
+
+
+//PARTE 2
+
+
+Class Coche {
+	public int npuertas =0;
+}
+
+
+public static main {
+	Coche miCoche = new miCoche();
+	miCoche.npuertas();
+	return miCoche(npuertas+1);
+	System.out.println(miCoche.npuertas);
+}
